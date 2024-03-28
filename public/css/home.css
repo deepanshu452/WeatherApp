@@ -1,0 +1,39 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.head{
+    background-color:aqua;
+    color: red;
+}
+
+.links a{
+    padding: 10px;
+    text-decoration: none;
+    color: #333333;
+    font-size: 20px;
+}
+
+.loc{
+    padding: 10px;
+    margin: auto 10px;
+    border: 1px solid #333333;
+}
+.submit{
+    padding: 10px;
+    margin: auto 2.5px;
+    border: 1px solid #333333;
+}
+
+form{
+    margin-left: 10px;
+    size: 100%;
+}
+
+.data{
+    margin-left: 10px;
+    padding: 10px;
+    color: #333333;
+    
+    font-size: 20px;
+}
